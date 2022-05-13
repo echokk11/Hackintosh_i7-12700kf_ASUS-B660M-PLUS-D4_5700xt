@@ -39,6 +39,10 @@
 
   USB定制工具，依赖python，下载地址https://github.com/USBToolBox/tool
 
+  我的机箱定制如图:
+
+  ![usb.jpg](./images/IMG_0074.jpeg)
+
 - ProperTree
 
   也是config.plist的编辑工具，这个是遵循原始的XML格式，UI工具有很小的概率会保存出现格式错误，这个不会，也是依赖于python，下载地址https://github.com/corpnewt/ProperTree
