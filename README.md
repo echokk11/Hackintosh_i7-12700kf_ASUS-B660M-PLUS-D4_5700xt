@@ -1,0 +1,1 @@
+# Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt
