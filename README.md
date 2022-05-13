@@ -1,25 +1,27 @@
-# Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt
+# i7-12700kf_ASUS-B660M-PLUS-D4_5700xt
 
-基于opencore `0.8.0`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.3.1`。因为是目的就是装黑苹果，所以购买硬件之前CPU特意买了没有核显的F系列，主板没有买WIFI版本，板载网卡虽然可以驱动，但是隔空等功能受限。
+基于opencore `0.8.0`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.3.1`。因为就是装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
 
 ### 硬件列表
 
-- i7-12700kf
+- Intel i7-12700kf
 - ASUS TUF GAMING B660M-PLUS D4
 - 金士顿骇客神条3600Mhz 16G*4
 - 三星980 PRO，PCIE 4.0
 - ASUS ROG RX 5700XT 8G
 - Fenvi T-919(BCM94360CD) 免驱网卡，用于wifi和bluetooth
+- 散热利民PA120
+- 750W安钛克NEO金牌全模电源
 
 ### 运行情况
 
-基本上完美运行，隔空，接力都能使用，可以登陆icloud账号，机型是Mac Pro(2019)，打了CPU补丁后CPU单核跑分略高于2020年M1的Mac Mini，多核就比较优势了
+基本上完美运行，可以登陆icloud账号，隔空，接力都能使用，机型是Mac Pro(2019)，打了CPU补丁后CPU单核跑分略高于2020年M1的Mac Mini，多核就比较优势了
 
 ### BIOS
 
 我用的是截止目前最新的bios版本`1402`
 
-只需要在boot启动那里把快速启动关闭即可，其他选项我试了其实开不开都不影响，VT-d不关闭也不影响，Above 4G，Hand-off这些默认都是开启的，无需修改
+只需要在boot启动那里把快速启动关闭即可，其他选项我试了其实开不开都不影响，VT-d不关闭也不影响，Above 4G，Hand-Off等这些默认都是开启的，无需修改
 
 不需要关闭E-Core和超线程
 
