@@ -81,7 +81,7 @@
 
 - 12代的CPU需要在config.plist中的kernel->Quieks下勾选ProvideCurrentCpuInfo
 - 需要用CPUFriend和CPUFriendFriend两个text设置CPU工作频率，我按照大头菜的视频设置GeekBench5跑分只有一半，后来重新设置可以跑出正常的分数
-- 使用前注意生成三码，可以用`OCAuxiliaryTools生成`，方便快捷
+- 已经去掉三码，使用前需要重新生成三码，可以用`OCAuxiliaryTools`生成，方便快捷
 
 ### 部分系统截图
 
