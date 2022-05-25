@@ -853,6 +853,10 @@
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>
+                    <key>revcpu</key>
+                    <integer>1</integer>
+                    <key>revcpuname</key>
+                    <string>12-Core Intel i7-12700KF</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
