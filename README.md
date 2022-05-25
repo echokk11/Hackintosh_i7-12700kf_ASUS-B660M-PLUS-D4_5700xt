@@ -1,8 +1,6 @@
 # i7-12700kf_ASUS-B660M-PLUS-D4_5700xt
 
-基于opencore `0.8.0`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.3.1`。因为就是冲着装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
-
-- 2022.05.23 可以更新到`12.4`
+基于opencore `0.8.0`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.4`。因为就是冲着装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
 
 ### 硬件列表
 
@@ -26,6 +24,12 @@
 只需要在boot启动那里把快速启动关闭即可，其他选项我试了其实开不开都不影响，VT-d不关闭也不影响，Above 4G，Hand-Off等这些默认都是开启的，无需修改
 
 不需要关闭E-Core和超线程
+
+### 关闭CFG Lock
+
+非常重要，不然会无故重启，我的这块ASUS主板的bios里可能没有这一项，实际上是开着的，需要按照opencore的官方文档关闭，会用到`ControlMsrE2.efi`和`modGRUBShell.efi`两个工具，结合`UEFITool`和`ifrextract`
+
+参见文档 https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#checking-via-controlmsre2
 
 ### 使用工具
 
@@ -93,15 +97,13 @@
 
 ### 部分系统截图
 
+![Xnip2022-05-13_15-04-55](./images/Xnip2022-05-13_15-04-55.jpg)
+
 ![Xnip2022-05-13_14-07-32](./images/Xnip2022-05-13_14-07-32.jpg)
 
 ![Xnip2022-05-13_14-08-34](./images/Xnip2022-05-13_14-08-34.jpg)
 
 ![Xnip2022-05-13_14-08-43](./images/Xnip2022-05-13_14-08-43.jpg)
-
-![Xnip2022-05-13_15-03-33](./images/Xnip2022-05-13_15-03-33.jpg)
-
-![Xnip2022-05-13_15-04-55](./images/Xnip2022-05-13_15-04-55.jpg)
 
 ![Xnip2022-05-13_15-05-41](./images/Xnip2022-05-13_15-05-41.jpg)
 
