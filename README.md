@@ -4,14 +4,15 @@
 
 ### 硬件列表
 
-- Intel i7-12700kf
-- ASUS TUF GAMING B660M-PLUS D4
-- 金士顿骇客神条3600Mhz 16G*4
-- 三星980 PRO，PCIE 4.0
-- ASUS ROG RX 5700XT 8G
-- Fenvi T-919(BCM94360CD) 免驱网卡，用于wifi和bluetooth
-- 散热利民PA120
-- 750W安钛克NEO金牌全模电源
+- CPU：Intel i7-12700kf
+- 主板：ASUS TUF GAMING B660M-PLUS D4
+- 内存：金士顿骇客神条3600Mhz 16G*4
+- 存储：三星980 PRO，PCIE 4.0， 970 evo plus 副盘
+- 显卡：ASUS ROG RX 5700XT 8G
+- 网卡：Fenvi T-919(BCM94360CD) 免驱，用于wifi和bluetooth
+- 散热：利民PA120
+- 电源：750W安钛克NEO金牌全模组
+- 机箱：tt起航者s3，mini小机箱
 
 ### 运行情况
 
