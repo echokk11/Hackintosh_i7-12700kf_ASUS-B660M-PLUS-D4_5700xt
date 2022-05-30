@@ -26,6 +26,8 @@
 
 不需要关闭E-Core和超线程
 
+好像需要关闭serial port，不然会很卡顿，不知道是不是玄学
+
 ### 关闭CFG Lock
 
 非常重要，不然会无故重启，我的这块ASUS主板的bios里可能没有这一项，实际上是开着的，需要按照opencore的官方文档关闭，会用到`ControlMsrE2.efi`和`modGRUBShell.efi`两个工具，结合`UEFITool`和`ifrextract`
