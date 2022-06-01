@@ -7,7 +7,7 @@
 - CPU：Intel i7-12700kf
 - 主板：ASUS TUF GAMING B660M-PLUS D4
 - 内存：金士顿骇客神条3600Mhz 16G*4
-- 存储：三星980 PRO，PCIE 4.0， 970 evo plus 副盘
+- 存储：三星980 PRO，PCIE 4.0(macOS)， 970 evo plus 副盘(Win11)
 - 显卡：ASUS ROG RX 5700XT 8G
 - 网卡：Fenvi T-919(BCM94360CD) 免驱，用于wifi和bluetooth
 - 散热：利民PA120
