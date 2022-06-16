@@ -7,7 +7,7 @@
 - CPU：Intel i7-12700kf
 - 主板：ASUS TUF GAMING B660M-PLUS D4
 - 内存：金士顿骇客神条3600Mhz 16G*4
-- 存储：三星980 PRO，PCIE 4.0(macOS)， 970 evo plus 副盘(Win11)
+- 存储：西数SN850 1T(macOS),三星980Pro 1T副盘(Win11)
 - 显卡：ASUS ROG RX 5700XT 8G
 - 网卡：Fenvi T-919(BCM94360CD) 免驱，用于wifi和bluetooth
 - 散热：利民PA120
@@ -26,7 +26,7 @@
 
 不需要关闭E-Core和超线程
 
-三星980 PRO是不是有不兼容的情况，安装完后会出现磁盘hash不正确的提示，然后系统有间歇性的卡顿，建议用这块ssd的观察下，我打算618入一块wd的SN850试试，不知道是不是玄学
+三星980 PRO是不是有不兼容的情况，安装完后会出现磁盘hash不正确的提示，然后系统有间歇性的卡顿，建议用这块ssd的观察下。已用wd的SN850替换，卡顿顿时消失了。。。
 
 ### 关闭CFG Lock
 
