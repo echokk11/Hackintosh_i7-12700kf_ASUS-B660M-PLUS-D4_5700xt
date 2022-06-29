@@ -88,7 +88,9 @@
 
 安装教程请参考[B站**大头蔡Cass**的系列教程](https://www.bilibili.com/video/BV113411n7W3?spm_id_from=333.999.0.0)
 
-12代还可以参考下这里的翻译文章https://zhuanlan.zhihu.com/p/487736399
+12代还可以参考下这里的翻译文章
+- https://zhuanlan.zhihu.com/p/487736399
+- https://github.com/alyxferrari/OpenCore-Install-Guide/blob/alderlake/config.plist/alder-lake.md
 
 ### 注意事项
 
