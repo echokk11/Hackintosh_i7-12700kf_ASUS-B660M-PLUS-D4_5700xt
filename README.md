@@ -10,7 +10,7 @@
 - 存储：西数SN850 1T(macOS),三星980Pro 1T副盘(Win11)
 - 显卡：ASUS ROG RX 5700XT 8G
 - 网卡：Fenvi T-919(BCM94360CD) 免驱，用于wifi和bluetooth
-- 散热：利民PA120
+- 散热：利民PA120,买了两块纯铜条贴着980Pro
 - 电源：750W安钛克NEO金牌全模组
 - 机箱：tt起航者s3，mini小机箱
 
