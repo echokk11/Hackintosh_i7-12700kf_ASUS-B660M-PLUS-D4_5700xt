@@ -2,6 +2,8 @@
 
 基于opencore `0.8.1`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.4`。因为就是冲着装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
 
+2022-07-05 更新opencore`0.8.2`，系统可正常运行Ventura 13.0 beta2
+
 ### 硬件列表
 
 - CPU：Intel i7-12700kf
