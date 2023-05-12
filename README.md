@@ -3,6 +3,7 @@
 基于opencore `0.8.1`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.4`。因为就是冲着装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
 
 ### 更新
+- 2023-05-12 更新opencore`0.9.2`，系统可正常运行`Ventura 13.3.1(a) 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.2/EFI.zip)
 - 2023-04-06 更新opencore`0.9.1`，系统可正常运行`Ventura 13.3.1 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.1/EFI.zip)
 - 2023-03-22 更新opencore`0.9.0`，系统可正常运行`Ventura 13.2.1 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.0/EFI.zip)
 - 2023-02-07 更新opencore`0.8.8`，系统可正常运行`Ventura 13.2 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.8.8/EFI.zip)
