@@ -5,6 +5,7 @@
 
 ### 更新
 >2023年6月的WWDC，Apple已经把MAC电脑全系(包括Mac Pro)的芯片从INTEL更新到了ARM架构，黑苹果且行且珍惜。
+- 2023-06-21 更新opencore`0.9.3`，系统可正常运行`Ventura 13.4 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.3/EFI.zip)
 - 2023-05-23 更新opencore`0.9.2`，系统可正常运行`Ventura 13.3.4 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.2/EFI.zip)
 - 2023-04-06 更新opencore`0.9.1`，系统可正常运行`Ventura 13.3.1 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.1/EFI.zip)
 - 2023-03-22 更新opencore`0.9.0`，系统可正常运行`Ventura 13.2.1 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.0/EFI.zip)
