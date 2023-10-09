@@ -7,7 +7,7 @@
 ### 持续更新
 >Sonoma博通WIFI驱动，参考pcbeta的帖子[https://bbs.pcbeta.com/viewthread-1975545-1-1.html](https://bbs.pcbeta.com/viewthread-1975545-1-1.html)
 - 2023-10-09 更新opencore`0.9.5`，系统可正常运行`Sonoma 14.0 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.5/EFI.zip)
-  - ![imag](./images/Xnip2023-10-09_22-44-21.jpg)
+  - ![imag](./images/Xnip2023-10-09_22-44-211.jpg)
   - ![imag](./images/Xnip2023-10-09_22-42-22.jpg)
 - 2023-08-25 更新opencore`0.9.4`，系统可正常运行`Ventura 13.5.1 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.4/EFI.zip)
 - 2023-06-21 更新opencore`0.9.3`，系统可正常运行`Ventura 13.4 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.3/EFI.zip)
