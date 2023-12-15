@@ -4,8 +4,6 @@
 
 ### 持续更新
 
-- 2023-12-13 更新opencore`0.9.7`，系统可正常运行`Sonoma 14.2 正式版`， [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.7/EFI.zip)
-
 >2023年6月的WWDC，Apple已经把MAC电脑全系(包括Mac Pro)的芯片从INTEL更新到了ARM架构，黑苹果且行且珍惜。
 
 >Sonoma博通WIFI驱动，参考pcbeta的帖子[https://bbs.pcbeta.com/viewthread-1975545-1-1.html](https://bbs.pcbeta.com/viewthread-1975545-1-1.html)。
