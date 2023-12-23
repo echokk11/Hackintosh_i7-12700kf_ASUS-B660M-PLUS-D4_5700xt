@@ -1,15 +1,12 @@
 # i7-12700kf_ASUS-B660M-PLUS-D4_5700xt
 
 基于opencore `0.8.1`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.4`。因为就是冲着装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
-
-### 持续更新
-
 >2023年6月的WWDC，Apple已经把MAC电脑全系(包括Mac Pro)的芯片从INTEL更新到了ARM架构，黑苹果且行且珍惜。
-
->Sonoma博通WIFI驱动，参考pcbeta的帖子[https://bbs.pcbeta.com/viewthread-1975545-1-1.html](https://bbs.pcbeta.com/viewthread-1975545-1-1.html)。
->打了补丁后，会检测不到系统更新的新版本，可以直接从App Store里面搜索MACOS，比如`Sonoma`全量升级
+### 持续更新
+- 2023-12-23 更新opencore`0.9.7`，系统可正常运行`Sonoma 14.2.1 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.7/EFI.zip)
 - 2023-11-13 更新opencore`0.9.6`，系统可正常运行`Sonoma 14.1.1 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.6/EFI.zip)
 - 2023-10-09 更新opencore`0.9.5`，系统可正常运行`Sonoma 14.0 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.5/EFI.zip)
+  - Sonoma博通WIFI驱动，参考pcbeta的帖子[https://bbs.pcbeta.com/viewthread-1975545-1-1.html](https://bbs.pcbeta.com/viewthread-1975545-1-1.html)。打了补丁后，会检测不到系统更新的新版本，可以直接从App Store里面搜索MACOS，比如`Sonoma`全量升级
   - <img src="./images/Xnip2023-10-09_22-44-211.jpg" alt="imag" style="zoom:60%;" />
   - <img src="./images/Xnip2023-10-09_22-42-22.jpg" alt="imag" style="zoom:60%;" />
 - 2023-08-25 更新opencore`0.9.4`，系统可正常运行`Ventura 13.5.1 正式版` [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.4/EFI.zip)
