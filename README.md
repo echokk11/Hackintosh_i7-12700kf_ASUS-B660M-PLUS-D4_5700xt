@@ -6,6 +6,7 @@
 - 2024-09-19 更新opencore`1.0.1`，系统可正常运行`Sequoia 15.0 正式版`，显卡换成了`6650XT`需要仿冒一下；WIFI正常，蓝牙正常，需注入[OpenCore Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)，iPhone镜像无法工作。[EFI下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v1.0.1/EFI.zip)
 
 <img src="./images/sequoia.jpg" alt="imag" style="zoom:60%;" />
+
 - 2023-12-23 更新opencore`0.9.7`，系统可正常运行`Sonoma 14.2.1 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.7/EFI.zip)
 - 2023-11-13 更新opencore`0.9.6`，系统可正常运行`Sonoma 14.1.1 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.6/EFI.zip)
 - 2023-10-09 更新opencore`0.9.5`，系统可正常运行`Sonoma 14.0 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.5/EFI.zip)
