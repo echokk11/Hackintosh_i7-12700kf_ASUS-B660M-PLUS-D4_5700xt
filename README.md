@@ -3,7 +3,7 @@
 基于opencore `0.8.1`版本，适用于华硕ASUS TUF GAMING B660M-PLUS D4主板和12代intelCPU，i7-12700kf的黑苹果引导文件，系统是Monterey `12.4`。因为就是冲着装黑苹果去的，所以购买硬件之前CPU特意买了没有核显的F系列(有也驱动不了)，主板没有买WIFI版本，板载WIFI网卡虽然可以驱动，但是隔空等功能受限。
 >2023年6月的WWDC，Apple已经把MAC电脑全系(包括Mac Pro)的芯片从INTEL更新到了ARM架构，黑苹果且行且珍惜。
 ### 持续更新
-- 2024-09-19 更新opencore`1.0.1`，系统可正常运行`Sequoia 15.0 正式版`，显卡我换成了`6650XT`需要仿冒一下，记得注入一下[OpenCore Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)，[EFI下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v1.0.1/EFI.zip)
+- 2024-09-19 更新opencore`1.0.1`，系统可正常运行`Sequoia 15.0 正式版`，显卡换成了`6650XT`需要仿冒一下；WIFI正常，蓝牙正常，需注入[OpenCore Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)，iPhone镜像无法工作。[EFI下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v1.0.1/EFI.zip)
 
 <img src="./images/sequoia.jpg" alt="imag" style="zoom:60%;" />
 - 2023-12-23 更新opencore`0.9.7`，系统可正常运行`Sonoma 14.2.1 正式版`，且已经注入博通网卡的WIFI/蓝牙的驱动补丁 [下载](https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt/releases/download/v0.9.7/EFI.zip)
